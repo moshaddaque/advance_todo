@@ -2,9 +2,9 @@
 
 A new Flutter project.
 
-## Getting Started
+## I have done this for at this time.
 
-This project is a starting point for a Flutter application.
+In this project, i try to add rich text using flutter_quill package to use many more feature for decorating my writings. I am using sqflite for local database to store data.
 
 A few resources to get you started if this is your first Flutter project:
 
